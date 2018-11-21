@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "this is a post, that is able to post tweets",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "node"
+  ],
+  "author": "Andreas Skriver Nielsen",
+  "license": "ISC"
+}
